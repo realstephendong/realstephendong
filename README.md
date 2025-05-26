@@ -66,7 +66,7 @@ I'm a passionate **Computer Engineering Student** and **Full Stack Developer** w
   </a>
 </div>
 
-## 💡 Random Dev Quote
+## 💡 QUOTE OF THE DAY LOL
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
