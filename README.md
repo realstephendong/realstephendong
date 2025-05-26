@@ -37,12 +37,6 @@ I'm a passionate **Computer Engineering Student** and **Full Stack Developer** w
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realstephendong&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=realstephendong&theme=react-dark&hide_border=true" alt="Activity Graph" />
-</div>
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
