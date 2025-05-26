@@ -6,12 +6,12 @@
 
 I'm a passionate **Computer Engineering Student** and **Full Stack Developer** who loves creating innovative solutions and learning new technologies.
 
-- 🔭 I'm currently working on **Copyright Detection in LLMs at WAT.ai**
-- 🌱 I'm currently learning **Advanced Machine Learning and Computer Vision**
+- 🔭 I'm currently working on **Secret AR Technology Application**
+- 🌱 I'm currently learning **System Verilog**
 - 👯 I'm looking to collaborate on **Full Stack Applications and ML Projects**
-- 💬 Ask me about **React, Python, Machine Learning, and Computer Vision**
+- 💬 Ask me about **React, Python, Machine Learning**
 - 📫 How to reach me: **s58dong@uwaterloo.ca**
-- ⚡ Fun fact: **I optimized a VGG16 model to be 3000x faster, reducing detection time from 5 minutes to 1ms!**
+- ⚡ Fun fact: **I LOVE Cooking!**
 
 ## 🛠️ Technologies & Tools
 
@@ -34,17 +34,7 @@ I'm a passionate **Computer Engineering Student** and **Full Stack Developer** w
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=realstephendong&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realstephendong&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
-## 🔥 GitHub Streak
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=realstephendong&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ## 📈 Activity Graph
@@ -59,17 +49,6 @@ I'm a passionate **Computer Engineering Student** and **Full Stack Developer** w
   <img src="https://github-profile-trophy.vercel.app/?username=realstephendong&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
-## 💼 Experience Highlights
-
-**🔹 Full Stack Developer @ Kal Polymers** (Jan 2025 - Apr 2025)
-- Built camera management system for 50+ security cameras using React, Flask & FFmpeg
-- Developed interactive 3D model tours with Three.js and WebGL
-- Created production dashboard reducing report load times by 58%
-
-**🔹 ML Researcher @ WAT.ai** (Sep 2024 - Apr 2025)
-- Achieved 32% improvement in copyright detection accuracy using NLP techniques
-- Optimized model inference pipeline, reducing load time from 63ms to 43ms (40% improvement)
-
 ## 💻 Featured Projects
 
 <div align="center">
@@ -81,21 +60,9 @@ I'm a passionate **Computer Engineering Student** and **Full Stack Developer** w
   </a>
 </div>
 
-### 🌟 Project Highlights
-
-**StyleIT** - Virtual Try-On Web App
-- Real-time body pose detection using MediaPipe
-- Dynamic clothing overlay with accurate movement tracking
-- MongoDB integration for wardrobe management
-
-**OncoAlert** - AI Cancer Detection Tool
-- 96% accuracy across 9 cancer subtypes
-- 3000x speed optimization (5min → 1ms detection time)
-- Full-stack implementation with React & Flask
-
 ## 🎓 Education
 
-**University of Waterloo** - BASc in Computer Engineering (Expected May 2027)
+**University of Waterloo** - BASc in Computer Engineering (Expected May 2029)
 
 ## 🌐 Connect with Me
 
