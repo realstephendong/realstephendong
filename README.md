@@ -31,16 +31,10 @@ I'm a passionate **Computer Engineering Student** and **Full Stack Developer** w
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-## 📊 GitHub Stats
+## 📊 Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realstephendong&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=realstephendong&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ## 💻 Featured Projects
