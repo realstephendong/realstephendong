@@ -2,11 +2,9 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=realstephendong&color=blue)
 
-## 🚀 About Me
-
 I'm a passionate **Computer Engineering Student** and **Full Stack Developer** who loves creating innovative solutions and learning new technologies.
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -24,17 +22,17 @@ I'm a passionate **Computer Engineering Student** and **Full Stack Developer** w
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-## 📊 Stats
+## Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realstephendong&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
-## 🎓 Education
+## Education
 
 **University of Waterloo** - BASc in Computer Engineering (Expected May 2029)
 
-## 🌐 Connect with Me
+## Connect with Me
 
 <div align="center">
   <a href="https://linkedin.com/in/stephen-dong">
@@ -48,7 +46,7 @@ I'm a passionate **Computer Engineering Student** and **Full Stack Developer** w
   </a>
 </div>
 
-## 💡 QUOTE OF THE DAY LOL
+## QUOTE OF THE DAY LOL
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
