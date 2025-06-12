@@ -6,13 +6,6 @@
 
 I'm a passionate **Computer Engineering Student** and **Full Stack Developer** who loves creating innovative solutions and learning new technologies.
 
-- 🔭 I'm currently working on **Secret AR Technology Application**
-- 🌱 I'm currently learning **System Verilog**
-- 👯 I'm looking to collaborate on **Full Stack Applications and ML Projects**
-- 💬 Ask me about **React, Python, Machine Learning**
-- 📫 How to reach me: **s58dong@uwaterloo.ca**
-- ⚡ Fun fact: **I LOVE Cooking!**
-
 ## 🛠️ Technologies & Tools
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
@@ -35,17 +28,6 @@ I'm a passionate **Computer Engineering Student** and **Full Stack Developer** w
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realstephendong&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
-## 💻 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/realstephendong/StyleIT">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=realstephendong&repo=StyleIT&theme=radical&hide_border=true" alt="StyleIT" />
-  </a>
-  <a href="https://github.com/realstephendong/OncoAlert">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=realstephendong&repo=OncoAlert&theme=radical&hide_border=true" alt="OncoAlert" />
-  </a>
 </div>
 
 ## 🎓 Education
