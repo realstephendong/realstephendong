@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=realstephendong&color=blue)
 
-I'm a passionate **Computer Engineering Student** and **Full Stack Developer** who loves creating innovative solutions and learning new technologies.
+I'm a passionate **Computer Engineering Student** and **Software Developer** who loves creating innovative solutions and learning new technologies.
 
 ## Technologies & Tools
 
