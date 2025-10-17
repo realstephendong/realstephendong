@@ -41,9 +41,3 @@ I'm a passionate **Computer Engineering Student** and **Software Developer** who
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </div>
-
----
-
-<div align="center">
-  <i>⭐️ From [realstephendong](https://github.com/realstephendong)</i>
-</div>
