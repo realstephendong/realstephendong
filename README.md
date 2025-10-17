@@ -22,16 +22,6 @@ I'm a passionate **Computer Engineering Student** and **Software Developer** who
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-## Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realstephendong&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
-## Education
-
-**University of Waterloo** - BASc in Computer Engineering (Expected May 2029)
-
 ## Connect with Me
 
 <div align="center">
